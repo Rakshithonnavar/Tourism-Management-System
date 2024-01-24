@@ -952,7 +952,7 @@ img.lg-item-img {
 /*---photoday-section-----*/ 
 .card {
     background: #fff;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 	 box-shadow: 0 1px 1px rgba(0,0,0,.05);
     -o-box-shadow: 0 1px 1px rgba(0,0,0,.05);
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
@@ -1832,7 +1832,7 @@ code {
     padding: 3px 8px;
     font-size: 11px;
     line-height: 1.5;
-    border-radius: 3px;
+    border-radius: 10px;
 }
 .btn-sm, .btn-group-sm > .btn {
     padding: 5px 14px;
