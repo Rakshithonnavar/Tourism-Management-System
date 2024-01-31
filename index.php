@@ -23,9 +23,8 @@ include('includes/config.php');
 <!--animate-->
 <link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
 <script src="js/wow.min.js"></script>
-<a 
 	<script>
-		 new WOW().init();
+	new WOW().init();
 	</script>
 <!--//end-animate-->
 </head>
