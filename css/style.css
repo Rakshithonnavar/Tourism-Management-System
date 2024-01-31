@@ -3159,9 +3159,11 @@ i.fa.fa-clock-o {
     margin: 32px 0px 0px 0px;
 }
 }
+
 @media (max-width:480px){
 .logo a {
-    font-size: 1.7em;
+    font-size: 1.9em;
+    font-weight: bolder;
 }
 .logo {
     margin-right: 0;

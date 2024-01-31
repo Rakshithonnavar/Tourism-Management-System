@@ -16,6 +16,6 @@
 				<!--<li><a class="dribbble" href="#"><span>Dribbble</span></a></li>-->
 			</ul>
 		</div>
-		<p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">Designed by Samarth & Rakshit </p>
+		<p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;"><strong>Designed by Samarth & <a href="https://www.linkedin.com/in/rakshit-honnavar-7b7ba51bb/">Rakshit</a></strong></p>
 	</div>
 </div>

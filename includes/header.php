@@ -41,8 +41,8 @@
 		</div>
 	
 		<div class="lock fadeInDown animated" data-wow-delay=".5s"> 
-			<li><i class="fa fa-lock"></i></li>
-            <li><div class="securetxt">SAFE &amp; SECURE </div></li>
+			<!-- <li><i class="fa fa-lock"></i></li>
+            <li><div class="securetxt">SAFE &amp; SECURE </div></li> -->
 			<div class="clearfix"></div>
 		</div>
 		<div class="clearfix"></div>

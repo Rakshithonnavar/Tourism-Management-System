@@ -1,3 +1,3 @@
 <div class="copyrights">
-	 <p>Designed by Samarth & Rakshit | <a href="../index.php">TMS</a> </p>
+	 <p><strong>Designed by Samarth & <a href="https://www.linkedin.com/in/rakshit-honnavar-7b7ba51bb/">Rakshit</a></strong>| <a href="../index.php">TMS</a> </p>
 </div>	
