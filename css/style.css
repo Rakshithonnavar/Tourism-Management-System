@@ -4383,3 +4383,96 @@ ul.set-1 {
     -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
     box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
 }
+
+/*--Social Icons**/
+*{
+    box-sizing: border-box;
+  }
+  .social_icons{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    bottom: 0;
+    width: 100%;
+  }
+  .wrapper{
+    display: flex;
+  }
+  .wrapper .icon-container{
+    position: relative;
+    height: 68px;
+    width: 68px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+    border-radius: 28px;
+    box-shadow: 0 5px 15px -5px rgb(0 0 0 / 10%);
+    cursor: pointer;
+    font-size: 30px;
+    text-decoration: none;
+    opacity: 0.99;
+    overflow: hidden;
+    gap: 10px;
+  }
+  .wrapper .icon-container:nth-child(1){
+    color:#3b5998;
+  }
+  .wrapper .icon-container:nth-child(2){
+    color:#0077b5;
+  }
+  .wrapper .icon-container:nth-child(3){
+    color:#1b1f23;
+  }
+  .wrapper .icon-container:nth-child(4){
+    color:#5da9dd;
+  }
+  .wrapper .icon-container:nth-child(5){
+    color:#fe0108;
+  }
+  
+  .wrapper .icon-container::before{
+    content: "";
+    width: 120%;
+    height: 120%;
+    position: absolute;
+    top: 90%;
+    left: -110%;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    transition: all 0.35s;
+    transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
+    z-index: 1;
+    gap: 10px;
+  }
+  .wrapper .icon-container .icon{
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+    transition: all 0.35s;
+    transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
+    z-index: 2;
+    gap: 10px;
+  }
+  .wrapper .icon-container:hover .icon{
+    color: #ffffff;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  .wrapper .icon-container:hover::before{
+    top:-10%;
+    left: -10%;
+  }
+  .wrapper .icon-container.facebook:hover::before{
+    background-color: #3b5998;
+  }
+  .wrapper .icon-container.linkedin:hover::before{
+    background-color: #0077b5;
+  }
+  .wrapper .icon-container.github:hover::before{
+    background-color: #1b1f23;
+  }
+  .wrapper .icon-container.twitter:hover::before{
+    background-color: #5da9dd;
+  }
+ 

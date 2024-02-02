@@ -46,7 +46,7 @@ echo "<script type='text/javascript'> document.location = 'package-list.php'; </
 	<input type="password" name="password" id="password" placeholder="Password" value="" required="">	
 											<h4><a href="forgot-password.php">Forgot password ?</a></h4>
 											
-											<input type="submit" name="signin" value="SIGNIN">
+											<input type="submit" name="signin" value="SIGN IN">
 										</form>
 									</div>
 									<div class="clearfix"></div>								
