@@ -116,7 +116,7 @@ foreach($results as $result)
 				<p class="dow">#PKG-<?php echo htmlentities($result->PackageId);?></p>
 				<p><b>Package Typ :</b> <?php echo htmlentities($result->PackageType);?></p>
 				<p><b>Package Location :</b> <?php echo htmlentities($result->PackageLocation);?></p>
-					<p><b>Features</b> <?php echo htmlentities($result->PackageFetures);?></p>
+					<p><b>Features:</b> <?php echo htmlentities($result->PackageFetures);?></p>
 					<div class="ban-bottom">
 				<div class="bnr-right">
 				<label class="inputLabel">From</label>

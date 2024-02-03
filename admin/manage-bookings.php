@@ -34,7 +34,7 @@ $query = $dbh->prepare($sql);
 $query -> bindParam(':status',$status, PDO::PARAM_STR);
 $query-> bindParam(':bcid',$bcid, PDO::PARAM_STR);
 $query -> execute();
-$msg="Booking Confirm successfully";
+$msg="";
 }
 
 
