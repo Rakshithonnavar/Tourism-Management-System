@@ -69,12 +69,10 @@ foreach($results as $result)
 			
 		
 <div><a href="package-list.php" class="view">View More Packages</a></div>
-<div><a href="manage-users.php" class="view">Manage users</a></div>
+<!-- <div><a href="manage-users.php" class="view">Manage users</a></div>
 </div>
 			<div class="clearfix"></div>
-	</div>
-
-
+	</div> -->
 
 <!--- routes ---->
 <div class="routes">
