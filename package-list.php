@@ -60,8 +60,8 @@ foreach($results as $result)
 				<div class="col-md-6 room-midle wow fadeInUp animated" data-wow-delay=".5s">
 					<h4>Package Name: <?php echo htmlentities($result->PackageName);?></h4>
 					<h6>Package Type : <?php echo htmlentities($result->PackageType);?></h6>
-					<p><b>Package Location :</b> <?php echo htmlentities($result->PackageLocation);?></p>
-					<p><b>Features</b> <?php echo htmlentities($result->PackageFetures);?></p>
+					<p><b><h6>Package Location :</h6></b> <?php echo htmlentities($result->PackageLocation);?></p>
+					<p><b><h6>Features:</h6></b> <?php echo htmlentities($result->PackageFetures);?></p>
 				</div>
 				<div class="col-md-3 room-right wow fadeInRight animated" data-wow-delay=".5s">
 					<h5>RS <?php echo htmlentities($result->PackagePrice);?></h5>

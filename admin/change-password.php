@@ -94,7 +94,7 @@ return true;
 				</div>
 <!--heder end here-->
 	<ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="../index.php">Home</a><i class="fa fa-angle-right"></i>Profile <i class="fa fa-angle-right"></i> Change Password</li>
+                <li class="breadcrumb-item"><a href="../index.php"> <strong>Home</strong></a><i class="fa fa-angle-right"></i>Profile <i class="fa fa-angle-right"></i> Change Password</li>
             </ol>
 		<!--grid-->
  	<div class="grid-form">

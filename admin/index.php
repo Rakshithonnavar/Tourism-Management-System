@@ -72,7 +72,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 			<div class="clearfix"></div>
 		</form>
 				<div class="back">
-					<a href="../index.php">HOME</a>
+					<a href="../index.php"><strong>HOME</strong></a>
 				</div>
 				
 	</div>
