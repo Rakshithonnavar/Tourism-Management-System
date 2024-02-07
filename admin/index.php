@@ -53,7 +53,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 	<div class="main-wthree">
 	<div class="container">
 	<div class="sin-w3-agile">
-		<h2>SIGN IN</h2>
+		<h2><strong>SIGN IN</strong></h2>
 		<form  method="post">
 			<div class="username">
 				<span class="username">Username:</span>
@@ -73,8 +73,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 		</form>
 				<div class="back">
 					<a href="../index.php"><strong>HOME</strong></a>
-				</div>
-				
+				</div>	
 	</div>
 	</div>
 	</div>
