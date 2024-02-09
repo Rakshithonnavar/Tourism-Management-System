@@ -68,11 +68,11 @@
 					<nav class="cl-effect-1">
 						<ul class="nav navbar-nav">
 							<li><a href="index.php"></a></li>
-							<li><a href="manage-pages.php?type=aboutus">About </a></li>
+							<li><a href="page.php?type=aboutus">About </a></li>
 								<li><a href="package-list.php">Tour Packages</a></li>
-								<li><a href="manage-pages.php?type=privacy">Privacy Policy</a></li>
-								<li><a href="manage-pages.php?type=terms">Terms of Use</a></li>
-								<li><a href="manage-pages.php?type=contact">Contact Us</a></li>
+								<li><a href="page.php?type=privacy">Privacy Policy</a></li>
+								<li><a href="page.php?type=terms">Terms of Use</a></li>
+								<li><a href="page.php?type=contact">Contact Us</a></li>
 								<?php if($_SESSION['login'])
 {?>
 								<li>Need Help?<a href="#" data-toggle="modal" data-target="#myModal3"> / Write Us </a>  </li>

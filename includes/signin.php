@@ -36,7 +36,7 @@ echo "<script type='text/javascript'> document.location = 'package-list.php'; </
 										<div class="login-left">
 												<ul>
 													<li><a class="fb" href="https://www.facebook.com/"><i></i>Facebook</a></li>
-													<li><a class="google" href="https://accounts.google.com/v3/signin/identifier?dsh=S-1978825738%3A1675105496639335&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdJiKfWK3ZzwuD8jsmjUck8AiNcQ7oy8WgQV0P8hiYSrCJ9Rlp8h0o_g3gh5WUhY1cEwzzc2A"><i></i>Google</a></li>
+													<li><a class="goog" href="https://accounts.google.com/v3/signin/identifier?dsh=S-1978825738%3A1675105496639335&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdJiKfWK3ZzwuD8jsmjUck8AiNcQ7oy8WgQV0P8hiYSrCJ9Rlp8h0o_g3gh5WUhY1cEwzzc2A"><i></i>Google</a></li>
 												</ul>
 											</div>
 									<div class="login-right">
