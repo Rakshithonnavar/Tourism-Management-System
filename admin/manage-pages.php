@@ -124,7 +124,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 									<label for="focusedinput" class="col-sm-2 control-label">Select page</label>
 									<div class="col-sm-8">
 									   <select name="menu1" onChange="MM_jumpMenu('parent',this,0)">
-                  <option value="" selected="selected" class="form-control">***Select One***</option>
+                  <option value="" selected="selected" class="form-control"><h6>Select One</h6></option>
                   <option value="manage-pages.php?type=terms">Terms and conditions</option>
                   <option value="manage-pages.php?type=privacy">Privacy and policy</option>
                   <option value="manage-pages.php?type=aboutus">About us</option> 
