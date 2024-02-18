@@ -6,7 +6,7 @@
 ---> Interface Developed helps in smooth reading and retrieval of records from the table.
 
 -->Tech stacks used: 
-FrontEnd: HTML5 ,CSS3 
+FrontEnd: CSS3,JavaScript
 BackEnd: PHP for server size scripting and MySQL Database for Organised Data Storage and retrieval as and when required by the admin.
+Xampp Server for localhosting
 
-*Protype Currently under updation*
