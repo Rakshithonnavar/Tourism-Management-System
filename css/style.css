@@ -136,7 +136,7 @@ i.fa.fa-lock {
 /*-- banner --*/
 .banner {
     background: url(../images/banner.jpg)no-repeat;
-    background-size: cover;
+    background-size:cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;

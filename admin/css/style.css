@@ -4716,8 +4716,14 @@ ul.bt-list {
 }
 /*---signin-----*/
 .main-wthree{
-		background: url(../admin.jpg)no-repeat; ;
-		min-height:794px;
+	/* background: url(../admin.jpg)no-repeat;
+	min-height:794px;
+     background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;        */
+    background-color: #008DE7;
 }
 span.prfil-img img {
     border-radius: 50%;
