@@ -4718,12 +4718,12 @@ ul.bt-list {
 .main-wthree{
 	/* background: url(../admin.jpg)no-repeat;
 	min-height:794px;
-     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;        */
-    background-color: #008DE7;
+    background-color: #008DE7 ;
+    background-size: cover;
 }
 span.prfil-img img {
     border-radius: 50%;
