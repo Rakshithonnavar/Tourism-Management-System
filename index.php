@@ -6,7 +6,7 @@ include('includes/config.php');
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Tourism Management System</title>
+<title><strong>Tourism Management System</strong></title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
