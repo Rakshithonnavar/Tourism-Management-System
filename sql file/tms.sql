@@ -1,4 +1,8 @@
--- Host: 127.0.0.1
+
+
+-- https://www.phpmyadmin.net/
+
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -161,7 +165,7 @@ INSERT INTO `tbltourpackages` (`PackageId`, `PackageName`, `PackageType`, `Packa
 
 
 
-
+--
 -- Table structure for table `tblusers`
 --
 
